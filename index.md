@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Morfonica/Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 设计静态网页
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 内容
 
-### Markdown
+* **图片 :**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+![](https://i.loli.net/2020/07/30/Adn5f9vL2TleE7N.png )&emsp;&emsp;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ * **文本 :**  一只敏捷的棕色狐狸跳过一只懒惰的狗一只敏捷的棕色狐狸跳过一只懒惰的狗一只敏捷的棕色狐狸跳过一只懒惰的狗一只敏捷的棕色狐狸跳过一只懒惰的狗一只敏捷的棕色狐狸跳过一只懒惰的狗一只敏捷的棕色狐狸跳过一只懒惰的狗一只敏捷的棕色狐狸跳过一只懒惰的狗一只敏捷的棕色狐狸跳过一只懒惰的狗
 
-```markdown
-Syntax highlighted code block
+---
+## 个人简介
 
-# Header 1
-## Header 2
-### Header 3
+1. 信息
+     * 姓名:XXXX&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;性別:X
+     * 年龄:XX&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   电子邮件:XXXXXXXXX
+   
+2. 经历
+     * 在…方面有*年的经验
+     * …的优秀业绩
+     * 在…方面有*年的经验
 
-- Bulleted
-- List
+3. 自我介绍
+     * 我是一名高素质的IT专业人员，在设计网站，网络和管理数据库方面拥有良好的往绩。我拥有强大的技术能力以及出色的人际交往能力，以便成长并进一步提高我的IT技能。我对生活的最大热情是利用我的技术知识使他人和组织受益
 
-1. Numbered
-2. List
+---
+## 系部介绍
+>&emsp;&emsp;*系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介*
+*绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍系部介绍*
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Morfonica/Pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+## 学校介绍
+>&emsp;&emsp;*学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介*
+*绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍学校介绍*
